@@ -6,9 +6,9 @@ $ python inference.py
 ```
 
 ### Team: dddd
-- [Name](https://github.com)
-- [Name](https://github.com)
-- [Name](https://github.com)
+- [Jehun Yoo](https://github.com/JehunYoo)
+- [Daehyun Cho](https://github.com/1pha)
+- [Changgeon Lim](https://github.com/ckdrjs96)
 
 ### Score & Ranking
 
