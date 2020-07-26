@@ -19,6 +19,12 @@ $ python inference.py
 - [Daehyun Cho](https://github.com/1pha) (1pha)
 - [Changgeon Lim](https://github.com/ckdrjs96) (dororo)
 
+#### Working Repository
+- [dddd](https://github.com/Arena-UOS/MelonPlaylistContinuation)
+- [JehunYoo](https://github.com/Arena-UOS/JehunYoo)
+- [Daehyun Cho](https://github.com/Arena-UOS/1pha)
+- [Changgeon Lim](https://github.com/Arena-UOS/geon)
+
 #### Collaboration Tools
 - [Notion](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11)
 - [Slack](https://kakaocompetitionuos.slack.com/)
